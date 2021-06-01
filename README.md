@@ -25,9 +25,9 @@ The following steps are to be taken to run the program
 python index.py arg_1 arg_2 arg_3
 ```
 
--** arg_1: First Argument must be a valid filename in the project folder or a path to a data file properly formatted and acceptable as project requirements
--** arg_2: Gamma Value. If not passed, program runs with loaded data
--** arg_3: Exploration factor,
+- *arg_1: First Argument must be a valid filename in the project folder or a path to a data file properly formatted and acceptable as project requirements
+-  *arg_2: Gamma Value. If not passed, program runs with loaded data
+- *arg_3: Exploration factor,
 
 ## Program Architecture
 The package contains the main Markov’s Decision Process Library, called mdplib.py, environment.py which is class constructor for the environment and files containing the Q-learning and Value iteration algorithms.
