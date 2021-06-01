@@ -1,5 +1,5 @@
 # MDP with Reinforcement Learning
-## By Ezeh Stanley
+## By Maestrocodey
 
 https://github.com/CodeyBank/MDP-Reinforcement-Learning
 
